@@ -374,7 +374,7 @@ Complex scenario with animals, vehicles, and road anomalies.
 
 ## 👩‍💻 Author
 
-**Gayatri A**  
+**Jyoshika K**  
 B.Tech Electronics & Communication Engineering  
 Bharat AI SoC Student Challenge
 
